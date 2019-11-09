@@ -3,7 +3,7 @@ body {
   margin:0;
 }
 header{
-  background-color: #3949ab;
+  background-color: #6593A6;
   color: white;
   text-align: center;
   padding: 16px;
@@ -30,10 +30,11 @@ li{
   width: 400px;
 }
 .description{
-  background-color: #f06292;
+  background-color: #03658C;
   margin: 0;
   text-align: center;
   padding: 10px;
+  color: white;
 }
 .bold{
   font-weight: 700;
